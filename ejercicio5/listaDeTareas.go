@@ -74,7 +74,7 @@ func displaymenuSelectOption() int {
 		" 2.Marcar tarea como completada \n",
 		" 3.Editar Tarea \n",
 		" 4.Eliminar Tarea \n",
-		"5 Salir \n",
+		" 5. Salir \n",
 	)
 	var opcion int
 	fmt.Scanln(&opcion)
